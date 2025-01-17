@@ -1,0 +1,17 @@
+/* styles/Home.module.css */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: "Arial", sans-serif;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 1.125rem;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  
